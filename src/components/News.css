@@ -1,0 +1,16 @@
+.grid-item {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    height: 100%;
+}
+
+.grid-item h3 {
+    font-size: 1.2rem;
+}
+
+.grid-item p {
+    font-size: 1rem;
+}
